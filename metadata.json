@@ -1,0 +1,6 @@
+{
+  "name": "DR KOBBY",
+  "description": "A luxury handcrafted jewelry brand landing page for DR KOBBY.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
